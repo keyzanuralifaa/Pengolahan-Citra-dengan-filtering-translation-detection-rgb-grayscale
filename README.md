@@ -1,0 +1,1 @@
+# Pengolahan-Citra-dengan-filtering-translation-detection-rgb-grayscale
